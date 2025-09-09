@@ -8,6 +8,9 @@ api_version = "2025-07"
 [[extensions]]
 name = "header-cta"
 handle = "header-cta"
+
+uid = "4d64c7ba-a1c7-4e9b-0095-c9b0faf48ac45c01d23e"
+
 type = "ui_extension"
 
 
